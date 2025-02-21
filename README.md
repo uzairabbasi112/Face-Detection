@@ -2,7 +2,8 @@
 
 A comprehensive computer vision project that implements two different face detection approaches using MediaPipe: Single Face Mesh Detection and Multiple Face Detection. This project demonstrates the versatility of MediaPipe for facial analysis tasks.
 
-![Project Demo](https://raw.githubusercontent.com/username/repo/main/assets/face-detection-demo.png)
+![Project Demo1](https://i.postimg.cc/W4s9dhG9/face-detector.png)
+![Project Demo2](https://i.postimg.cc/mgYXZQHz/facial.webp)
 
 ## 🎯 Project Features
 
